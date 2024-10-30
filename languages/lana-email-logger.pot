@@ -1,0 +1,180 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lana Email Logger\n"
+"POT-Creation-Date: 2021-12-11 07:26+0100\n"
+"PO-Revision-Date: 2016-11-23 21:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-lana-email-logger-logs-list-table.php:35
+msgid "Subject"
+msgstr ""
+
+#: includes/class-lana-email-logger-logs-list-table.php:36
+msgid "User"
+msgstr ""
+
+#: includes/class-lana-email-logger-logs-list-table.php:37
+msgid "Email To"
+msgstr ""
+
+#: includes/class-lana-email-logger-logs-list-table.php:38
+#: views/lana-email-view-date.php:9
+msgid "Date"
+msgstr ""
+
+#: includes/class-lana-email-logger-logs-list-table.php:62
+msgid "Delete"
+msgstr ""
+
+#: includes/class-lana-email-logger-logs-list-table.php:118
+msgid "Non-member"
+msgstr ""
+
+#: includes/class-lana-email-logger-logs-list-table.php:146
+msgid "(no date)"
+msgstr ""
+
+#: includes/class-lana-email-logger-logs-list-table.php:150
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: includes/class-lana-email-logger-logs-list-table.php:169
+msgid "Log entries deleted"
+msgstr ""
+
+#: includes/class-lana-email-logger-logs-list-table.php:194
+msgid "Show all dates"
+msgstr ""
+
+#: includes/class-lana-email-logger-logs-list-table.php:205
+#, php-format
+msgid "%1$s %2$d"
+msgstr ""
+
+#: includes/class-lana-email-logger-logs-list-table.php:213
+msgid "Filter"
+msgstr ""
+
+#: includes/class-lana-email-logger-logs-list-table.php:218
+msgid "Delete Logs"
+msgstr ""
+
+#: includes/class-lana-email-logger-logs-list-table.php:284
+msgid "Sorry, you are not allowed to process bulk actions."
+msgstr ""
+
+#: includes/class-lana-email-logger-logs-list-table.php:288
+#: lana-email-logger.php:414
+msgid "Sorry, you are not allowed to delete logs."
+msgstr ""
+
+#: lana-email-logger.php:42 lana-email-logger.php:150
+msgid "Settings"
+msgstr ""
+
+#: lana-email-logger.php:144 lana-email-logger.php:179
+msgid "Lana Email Logger"
+msgstr ""
+
+#: lana-email-logger.php:182 lana-email-logger.php:305
+#: views/lana-email-view.php:9
+msgid "View Email"
+msgstr ""
+
+#: lana-email-logger.php:351
+msgid "Logs per page"
+msgstr ""
+
+#: lana-email-logger.php:429
+msgid "Email Logs"
+msgstr ""
+
+#: lana-email-logger.php:447
+msgid "Lana Email Logger Settings"
+msgstr ""
+
+#: lana-email-logger.php:454
+msgid "Lana Codes"
+msgstr ""
+
+#: lana-email-logger.php:461
+msgid "Cleanup Settings"
+msgstr ""
+
+#: lana-email-logger.php:466
+msgid "Cleanup by Amount"
+msgstr ""
+
+#: lana-email-logger.php:474 lana-email-logger.php:509
+msgid "Disabled"
+msgstr ""
+
+#: lana-email-logger.php:478 lana-email-logger.php:513
+msgid "Enabled"
+msgstr ""
+
+#: lana-email-logger.php:486
+msgid "Cleanup Amount"
+msgstr ""
+
+#: lana-email-logger.php:494
+msgid "Deletes emails that exceed the set value."
+msgstr ""
+
+#: lana-email-logger.php:501
+msgid "Cleanup by Time"
+msgstr ""
+
+#: lana-email-logger.php:521
+msgid "Cleanup Time"
+msgstr ""
+
+#: lana-email-logger.php:529
+msgid "Deletes emails that are older than the set days."
+msgstr ""
+
+#: lana-email-logger.php:537
+msgid "Save Changes"
+msgstr ""
+
+#: lana-email-logger.php:554
+msgid "The id is not set."
+msgstr ""
+
+#: views/lana-email-view-headers.php:11
+msgid "Headers"
+msgstr ""
+
+#: views/lana-email-view-info.php:9
+msgid "Information"
+msgstr ""
+
+#: views/lana-email-view-info.php:15
+msgid "Email to"
+msgstr ""
+
+#: views/lana-email-view-info.php:22
+msgid "Username"
+msgstr ""
+
+#: views/lana-email-view-info.php:29
+msgid "User IP"
+msgstr ""
+
+#: views/lana-email-view-info.php:36
+msgid "User Agent"
+msgstr ""

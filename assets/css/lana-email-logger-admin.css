@@ -1,0 +1,24 @@
+/** Lana Email Logger - View Email */
+body.admin_page_lana-email-view #poststuff #post-body-content h2.email-title {
+    font-size: 18px;
+    padding: 0;
+    margin: 14px 0;
+}
+
+body.admin_page_lana-email-view #poststuff #post-body-content pre {
+    font-family: inherit;
+    overflow: auto;
+}
+
+body.admin_page_lana-email-view .postbox-container .form-table td {
+    padding: 5px 0;
+}
+
+/** Lana Email Logger - Settings */
+body.lana-email-logger_page_lana-email-logger-settings tr.cleanup {
+    display: none;
+}
+
+body.lana-email-logger_page_lana-email-logger-settings tr.d-table-row {
+    display: table-row !important;
+}
